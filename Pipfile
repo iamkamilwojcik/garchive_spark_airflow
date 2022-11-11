@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pyspark = "==2.4.5"
+pyspark = "==3.2.2"
 requests = "*"
 
 [requires]
